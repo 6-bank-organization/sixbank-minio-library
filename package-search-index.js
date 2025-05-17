@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.sixbank.miniolibrary.client"},{"l":"com.sixbank.miniolibrary.config"}];updateSearchResults();
